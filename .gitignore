@@ -53,3 +53,6 @@ dkms.conf
 
 # build files 
 bin/
+
+# JetBrains Software added folders
+.idea/
